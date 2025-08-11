@@ -1,0 +1,15 @@
+{
+    "mcpServers": {
+      "tg-bot supabase": {
+        "command": "cmd",
+        "args": [
+          "/c",
+          "npx",
+          "-y",
+          "@supabase/mcp-server-supabase@latest",
+          "--access-token",
+          "sbp_69fd8a91f9389434ec30fbcecdc34d29c3e50259"
+        ]
+      }
+    }
+  }
